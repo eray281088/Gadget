@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5 Gadget Viral TikTok 2025 yang Wajib Kamu Punya!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .product {
+            border-bottom: 1px solid #ddd;
+            padding: 15px 0;
+            display: flex;
+            align-items: center;
+        }
+        .product img {
+            max-width: 150px;
+            margin-right: 20px;
+            border-radius: 8px;
+        }
+        .product-info {
+            flex: 1;
+        }
+        .product a {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 15px;
+            background: #28a745;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .product a:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>5 Gadget Viral TikTok 2025 yang Wajib Kamu Punya!</h1>
+
+        <!-- Produk 1 -->
+        <div class="product">
+            <img src="URL_GAMBAR_BLENDER_PORTABEL" alt="Blender Portabel">
+            <div class="product-info">
+                <h2>Blender Portabel</h2>
+                <p>Blender portabel ini memungkinkan Anda membuat smoothie atau minuman sehat di mana saja tanpa perlu sumber listrik langsung. Dengan kapasitas 400mL, dilengkapi enam bilah stainless steel, pegangan silikon, dan kaki karet anti-slip. Pengisian daya melalui USB, sehingga mudah dibawa bepergian.</p>
+                <a href="LINK_AFFILIATE_BLENDER_PORTABEL" target="_blank">Lihat di Shopee</a>
+            </div>
+        </div>
+
+        <!-- Produk 2 -->
+        <div class="product">
+            <img src="URL_GAMBAR_PENGISI_DAYA_3IN1" alt="Pengisi Daya 3-in-1">
+            <div class="product-info">
+                <h2>Pengisi Daya 3-in-1</h2>
+                <p>Pengisi daya inovatif yang dapat mengisi daya ponsel, jam tangan pintar, dan earbud Bluetooth secara bersamaan. Desainnya yang ramping dan fungsional membuatnya menjadi favorit bagi pengguna yang memiliki banyak perangkat.</p>
+                <a href="LINK_AFFILIATE_PENGISI_DAYA_3IN1" target="_blank">Lihat di Shopee</a>
+            </div>
+        </div>
+
+        <!-- Produk 3 -->
+        <div class="product">
+            <img src="URL_GAMBAR_LAMPU_LED_STRIP" alt="Lampu LED Strip">
+            <div class="product-info">
+                <h2>Lampu LED Strip</h2>
+                <p>Lampu dekoratif yang dapat ditempelkan di berbagai area untuk menciptakan suasana ruangan yang estetik dan modern. Banyak digunakan untuk menghias kamar tidur, ruang kerja, atau area lainnya.</p>
+                <a href="LINK_AFFILIATE_LAMPU_LED_STRIP" target="_blank">Lihat di Shopee</a>
+            </div>
+        </div>
+
+        <!-- Produk 4 -->
+        <div class="product">
+            <img src="URL_GAMBAR_BOTOL_AIR_PINTAR" alt="Botol Air Pintar">
+            <div class="product-info">
+                <h2>Botol Air Pintar</h2>
+                <p>Botol air yang dilengkapi teknologi untuk memantau asupan cairan harian dan mengingatkan Anda untuk minum air secara rutin. Cocok bagi mereka yang ingin menjaga hidrasi dengan lebih baik.</p>
+                <a href="LINK_AFFILIATE_BOTOL_AIR_PINTAR" target="_blank">Lihat di Shopee</a>
+            </div>
+        </div>
+
+        <!-- Produk 5 -->
+        <div class="product">
+            <img src="URL_GAMBAR_ORGANIZER_GADGET" alt
+::contentReference[oaicite:15]{index=15}
